@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Roboto, sans-serif;
+}
+
+header {
+    padding-top: 200px;
+    text-align: center;
+    font-size: larger;
+    padding-bottom: 30px;
+}
+
+form {
+    text-align: center;
+}
+
+input, button{
+    padding: 8px 16px;
+}
+
+button{
+    cursor: pointer;
+}
+
+ul {
+    padding-top: 24px;
+    text-align: center;
+}
+
+li {
+    padding: 4px;
+    cursor: pointer;
+}
